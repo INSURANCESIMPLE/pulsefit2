@@ -1,0 +1,6 @@
+{
+  "name": "PulseFit - Workout & Gym Companion",
+  "description": "Full-featured iOS-styled workout app with real-time heart rate tracking, AI regime designer, gym & machine availability sync, set/rep logging, gamification, and robust health export.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

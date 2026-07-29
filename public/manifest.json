@@ -1,0 +1,17 @@
+{
+  "short_name": "PulseFit AI",
+  "name": "PulseFit - AI Workout & Gym Companion",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#020617",
+  "theme_color": "#84cc16",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "Subscriber-grade AI Workout Companion and Gym Equipment Sync"
+}
